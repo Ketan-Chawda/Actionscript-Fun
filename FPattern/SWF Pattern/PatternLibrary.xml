@@ -1,0 +1,38 @@
+<pattern>
+
+	<program>
+		<onlist>1</onlist>
+		<ptitle>DownLeftTriangle Tested</ptitle>
+		<pdesc>DownLeftTriangle Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>2</onlist>
+		<ptitle>DownRightTriangle Tested</ptitle>
+		<pdesc>DownRightTriangle Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>3</onlist>
+		<ptitle>LeftTriangle Tested</ptitle>
+		<pdesc>LeftTriangle Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>4</onlist>
+		<ptitle>RightTriangle Tested</ptitle>
+		<pdesc>RightTriangle Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>5</onlist>
+		<ptitle>StraightTriangle Tested</ptitle>
+		<pdesc>StraightTriangle Tested</pdesc>
+	</program>
+
+
+</pattern>

@@ -1,0 +1,16 @@
+<series>
+
+	<program>
+		<onlist>1</onlist>
+		<ptitle>Fibonacci Tested</ptitle>
+		<pdesc>Fibonacci Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>2</onlist>
+		<ptitle>IncrementDiff Tested</ptitle>
+		<pdesc>IncrementDiff Tested</pdesc>
+	</program>
+
+</series>

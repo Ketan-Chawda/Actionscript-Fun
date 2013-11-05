@@ -1,0 +1,209 @@
+<maths>
+
+	<program>
+		<onlist>1</onlist>
+		<ptitle>AverageOfArray Tested</ptitle>
+		<pdesc>AverageOfArray Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>2</onlist>
+		<ptitle>BinaryToDecimal Tested</ptitle>
+		<pdesc>BinaryToDecimal Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>3</onlist>
+		<ptitle>BinaryToOctal Tested</ptitle>
+		<pdesc>BinaryToOctal Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>4</onlist>
+		<ptitle>CountPosNegZero Tested</ptitle>
+		<pdesc>CountPosNegZero Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>5</onlist>
+		<ptitle>DecimalToBinary Tested</ptitle>
+		<pdesc>DecimalToBinary Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>6</onlist>
+		<ptitle>DecimalToOctal Tested</ptitle>
+		<pdesc>DecimalToOctal Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>7</onlist>
+		<ptitle>Factorial Tested</ptitle>
+		<pdesc>Factorial Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>8</onlist>
+		<ptitle>GenerateTable Tested</ptitle>
+		<pdesc>GenerateTable Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>9</onlist>
+		<ptitle>HighestInputted Tested</ptitle>
+		<pdesc>HighestInputted Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>10</onlist>
+		<ptitle>IsArmstrong Tested</ptitle>
+		<pdesc>IsArmstrong Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>11</onlist>
+		<ptitle>IsLeap Tested</ptitle>
+		<pdesc>IsLeap Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>12</onlist>
+		<ptitle>IsPalindromeNumber Tested</ptitle>
+		<pdesc>IsPalindromeNumber Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>13</onlist>
+		<ptitle>IsPerfect Tested</ptitle>
+		<pdesc>IsPerfect Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>14</onlist>
+		<ptitle>IsPosNegZero Tested</ptitle>
+		<pdesc>IsPosNegZero Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>15</onlist>
+		<ptitle>IsPrime Tested</ptitle>
+		<pdesc>IsPrime Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>16</onlist>
+		<ptitle>LowestInputted Tested</ptitle>
+		<pdesc>LowestInputted Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>17</onlist>
+		<ptitle>NextRepetitionFree Tested</ptitle>
+		<pdesc>NextRepetitionFree Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>18</onlist>
+		<ptitle>OccurOfNumber Tested</ptitle>
+		<pdesc>OccurOfNumber Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>19</onlist>
+		<ptitle>OctalToBinary Tested</ptitle>
+		<pdesc>OctalToBinary Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>20</onlist>
+		<ptitle>OctalToDecimal Tested</ptitle>
+		<pdesc>OctalToDecimal Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>21</onlist>
+		<ptitle>PossibleDivisor Tested</ptitle>
+		<pdesc>PossibleDivisor Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>22</onlist>
+		<ptitle>ReverseNumber Tested</ptitle>
+		<pdesc>ReverseNumber Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>23</onlist>
+		<ptitle>SecondHighest Tested</ptitle>
+		<pdesc>SecondHighest Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>24</onlist>
+		<ptitle>SecondLowest Tested</ptitle>
+		<pdesc>SecondLowest Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>25</onlist>
+		<ptitle>SortArrayAsc Tested</ptitle>
+		<pdesc>SortArrayAsc Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>26</onlist>
+		<ptitle>SumFirstNEven Tested</ptitle>
+		<pdesc>SumFirstNEven Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>27</onlist>
+		<ptitle>SumFirstNOdd Tested</ptitle>
+		<pdesc>SumFirstNOdd Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>28</onlist>
+		<ptitle>SumFirstNPrime Tested</ptitle>
+		<pdesc>SumFirstNPrime Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>29</onlist>
+		<ptitle>SumFirstNumber Tested</ptitle>
+		<pdesc>SumFirstNumber Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>30</onlist>
+		<ptitle>SumOfArray Tested</ptitle>
+		<pdesc>SumOfArray Tested</pdesc>
+	</program>
+
+	<program>
+		<onlist>31</onlist>
+		<ptitle>SumOfNumber Tested</ptitle>
+		<pdesc>SumOfNumber Tested</pdesc>
+	</program>
+
+
+</maths>

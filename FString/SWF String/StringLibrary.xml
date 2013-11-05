@@ -1,0 +1,73 @@
+<string>
+
+	<program>
+		<onlist>1</onlist>
+		<ptitle>AllPossibility Tested</ptitle>
+		<pdesc>AllPossibility Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>2</onlist>
+		<ptitle>CountVowels Tested</ptitle>
+		<pdesc>CountVowels Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>3</onlist>
+		<ptitle>IsPalindromeStr Tested</ptitle>
+		<pdesc>IsPalindromeStr Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>4</onlist>
+		<ptitle>OccurenceStr Tested</ptitle>
+		<pdesc>OccurenceStr Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>5</onlist>
+		<ptitle>ReverseStr Tested</ptitle>
+		<pdesc>ReverseStr Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>6</onlist>
+		<ptitle>SentenceRevByWord Tested</ptitle>
+		<pdesc>SentenceRevByWord Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>7</onlist>
+		<ptitle>SortString Tested</ptitle>
+		<pdesc>SortString Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>8</onlist>
+		<ptitle>StrLower Tested</ptitle>
+		<pdesc>StrLower Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>9</onlist>
+		<ptitle>StrSentenceCase Tested</ptitle>
+		<pdesc>StrSentenceCase Tested</pdesc>
+	</program>
+
+
+	<program>
+		<onlist>10</onlist>
+		<ptitle>StrUpper Tested</ptitle>
+		<pdesc>StrUpper Tested</pdesc>
+	</program>
+
+
+</string>
